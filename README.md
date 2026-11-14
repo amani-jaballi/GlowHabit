@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌿 GlowHabit — Healthy Lifestyle Platform
 
 A full-stack PHP/MySQL web application for managing personal wellness habits including meal plans, workout programs, and daily wellness tips.
@@ -82,3 +83,7 @@ GlowHabit/
 ├── recipes_gain.php
 └── database.sql
 ```
+=======
+# GlowHabit
+A wellness web application that brings together meal planning, workouts, and daily habit tracking.
+>>>>>>> d351c85b4fbf0e3682114c597f6e3287abe3fb75
